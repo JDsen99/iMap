@@ -11,5 +11,6 @@ import java.util.Map;
 public class TestDemo {
     public static void main(String[] args) {
         Map map = new HashMap();
+        System.out.println(map);
     }
 }
